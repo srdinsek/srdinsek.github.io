@@ -69,3 +69,8 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+gist:
+  noscript: false
