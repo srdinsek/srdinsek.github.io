@@ -74,3 +74,5 @@ kramdown:
 
 gist:
   noscript: false
+
+theme: minima
