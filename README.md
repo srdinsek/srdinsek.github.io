@@ -8,7 +8,7 @@ Halo.
 - This is it!
 - This is somehting else
 ### My ideas
-My most favorit [site](www.google.com)
+My most favorit [site]((http://google.com/)).
 
 ### Projects
 
