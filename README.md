@@ -18,7 +18,7 @@ With the new method we studied entanglement between protons in the molecular com
 
 [figure]
 
-We studied the low temperature phase diagram of discrete $`\phi^4`$ model, and discovered that above the quantum critical point, the field undergoes a localisation in the imaginary time. We located the quantum critical point by calculating the behavior of quantum Rényi entropy with the method developed in [PRR]. 
+We studied the low temperature phase diagram of discrete φ^4 $`\phi^4`$ model, and discovered that above the quantum critical point, the field undergoes a localisation in the imaginary time. We located the quantum critical point by calculating the behavior of quantum Rényi entropy with the method developed in [PRR]. 
 If interpreted as protons in a chain of hydrogen bonds, this coresponds to the transition from delocalised protons to the formation of molecules. 
 
 [figure]
