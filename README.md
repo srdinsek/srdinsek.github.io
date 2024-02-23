@@ -9,7 +9,7 @@
 
 We developed [a method](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032002) for calculating quantum Rényi entropy in large and strongly entangled systems with path integral monte carlo and [path integral langevin dynamics](https://arxiv.org/abs/2303.04768). 
 
-![figure](https://github.com/srdinsek/srdinsek.github.io/blob/main/figures/Paths.jpg)
+![figure](blob/main/figures/Paths.jpg)
 
 With the new method we studied entanglement between protons in the molecular complex of formic acid dimer. 
 
