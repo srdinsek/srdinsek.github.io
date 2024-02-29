@@ -7,7 +7,7 @@
 
 ### Quantum entanglement
 
-We developed [a method](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032002) for calculating quantum Rényi entropy in large and strongly entangled systems with path integral monte carlo and [path integral langevin dynamics](https://arxiv.org/abs/2303.04768). 
+We developed [a method](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032002) for calculating quantum Rényi entropy in large and strongly entangled systems with path integral monte carlo and [path integral langevin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245121). 
 
 ![figure](./figures/Paths.jpg)
 
@@ -15,7 +15,7 @@ With the new method we studied entanglement between protons in the molecular com
 
 ![figure](./figures/Key.png)
 
-We studied the [low temperature phase diagram of discrete φ^4 model](https://arxiv.org/abs/2303.04768), and discovered that above the quantum critical point, the field undergoes a localisation in the imaginary time. We located the quantum critical point by calculating the behavior of quantum Rényi entropy with the method developed in [Phys. Rev. Research 4, L032002 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032002). 
+We studied the [low temperature phase diagram of discrete φ^4 model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245121), and discovered that above the quantum critical point, the field undergoes a localisation in the imaginary time. We located the quantum critical point by calculating the behavior of quantum Rényi entropy with the method developed in [Phys. Rev. Research 4, L032002 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032002). 
 If interpreted as protons in a chain of hydrogen bonds, this coresponds to the transition from delocalised protons to the formation of molecules. 
 
 ![figure](./figures/Scaling_of_the_peak.png)
