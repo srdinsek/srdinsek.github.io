@@ -4,12 +4,13 @@ layout: default
 
 # Quantum chaos
 
-- [Home](./)
+- [About me](./)
+-  Research:
 
-**Research:**
-- [Hybrid quantum states](./hybrid-quantum-states.html)
-- [Quantum chaos](./quantum-chaos.html)
-- [Entanglement entropy](./entanglement-entropy.html)
+    - [Hybrid quantum states](./hybrid-quantum-states.html)
+    - [**Quantum chaos**](./quantum-chaos.html)
+    - [Entanglement entropy](./entanglement-entropy.html)
+
 
 Under construction.
 
