@@ -9,7 +9,7 @@ layout: default
 -  Research:
 
     - [Hybrid quantum states](./hybrid-quantum-states.html)
-    - [Quantum chaos**](./quantum-chaos.html)
+    - [Quantum chaos](./quantum-chaos.html)
     - [**Entanglement entropy**](./entanglement-entropy.html)
 
 We developed [a method](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032002) for calculating quantum Rényi entropy in large and strongly entangled systems with path integral monte carlo and [path integral langevin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245121). 
