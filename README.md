@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Computational Quantum Physicist
 
 ## Research interests
@@ -32,3 +36,4 @@ Now I am interested in evaluating [the entanglement in simulations of water ice 
 
 ## Publications
 Look at my [google scholar](https://scholar.google.com/citations?user=OPxh1gMAAAAJ&hl=en).
+
