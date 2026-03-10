@@ -5,16 +5,6 @@ layout: default
 # About me
 
 
-- [**About me**](./)
--  Research:
-
-    - [Hybrid quantum states](./hybrid-quantum-states.html)
-    - [Quantum chaos](./quantum-chaos.html)
-    - [Entanglement entropy](./entanglement-entropy.html)
-
-
-
-
 ## Education
 - Postdoc at CEA Grenoble with [Xavier Waintal](https://www.pheliqs.fr/en/Pages/Portrait/Xavier-Waintal.aspx)
 - [Ph.D. at Sorbonne University](https://theses.hal.science/tel-04323383) with [Michele Casula](http://www-ext.impmc.upmc.fr/~casula/) and [Rodolphe Vuilleumier](https://scholar.google.com/citations?user=kmAqQqMAAAAJ&hl=en)

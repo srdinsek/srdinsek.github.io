@@ -23,17 +23,17 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <nav style="line-height: 1.8; margin-bottom: 20px;">
+      <nav style="line-height: 1.8; margin-bottom: 20px;">
         <!-- About me as a proper link -->
         <a href="/" style="display: block; text-decoration: none; color: inherit; {% if page.url == './' or page.url == './index.html' %}font-weight: bold;{% endif %}">About me</a>
 
         <!-- Research heading (not a link) -->
-        <p style="margin: 0.5em 0 0 0;">Research:</p>
+        <p style="margin: 0 0 0 0;">Research:</p>
 
         <!-- Research subpages as links -->
         <a href="./hybrid-quantum-states.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; {% if page.url == './hybrid-quantum-states.html' %}font-weight: bold;{% endif %}">Hybrid Quantum States</a>
         <a href="./quantum-chaos.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; {% if page.url == './quantum-chaos.html' %}font-weight: bold;{% endif %}">Quantum Chaos</a>
-        <a href="./entanglement-entropy.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; {% if page.url == './entanglement-entropy.html' %}font-weight: bold;{% endif %}">Entanglement Entropy</a>
+        <a href="./entanglement-entropy.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; margin-bottom: 0; {% if page.url == './entanglement-entropy.html' %}font-weight: bold;{% endif %}">Entanglement Entropy</a>
       </nav>
 
         {% if site.github.is_project_page %}
