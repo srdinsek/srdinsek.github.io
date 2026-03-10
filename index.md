@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Computational Quantum Physicist
+# About me
 
 
 - [**About me**](./)
