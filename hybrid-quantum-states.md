@@ -17,22 +17,17 @@ polynomials, with coeffiecinets given by the tensor network inside.
 Building a network with the units of the second tipe, is an example of nesting
 polynomials, where coefficients are compressible. Because the Perceptrain
 contains a polynomial, already a single unit descibes a nonlinear decision
-boundary. In comparison, a single perceptron given by $f(\boldsymbol{W} \cdot
-\boldsymbol{s} + b)$ gives only a linear boundary.
+boundary. In comparison, a single perceptron given by *f(**W** • **s** +b)* gives only a linear boundary.
 
 ![figure](./figures/DecisionBoundary_new.png)
 
 In the [work](https://journals.aps.org/prb/abstract/10.1103/b2kz-15c5) we
 continue by building a network of perceptrain units, taylored for the 2D 
 quantum many-body problem. We use the network to represent the ground state of
-the Hamiltonian of Rydberg atoms on a square lattice, given by
-$$
-H = \sum_{i<j}\frac{1}{r_{ij}^6}\sigma_i^z\sigma_j^z-h_x\sum_i\sigma_i^x,
-$$
-where $r_{ij}$ measures the distance between the sites, $h_x$ the strenght of
-the magnetic field, and $\sigma_i^t$ the $t$ Pauli matrix on site $i$. The most
+the Hamiltonian of Rydberg atoms on a square lattice. The most
 remarcable result, is that we obtain 5 digit precision with a very small number
-of parameters. In comparable methods, we are talking of at least a factor 10 000.
+of parameters. In comparable methods, we are talking of at least a factor 10 000
+more parameters.
 
 In the work that is now on the way, we also show that the accuracy does not
 significantly decrese with the system size. We have reached the same precision
