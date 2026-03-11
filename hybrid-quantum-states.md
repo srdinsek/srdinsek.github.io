@@ -51,4 +51,6 @@ projections, so that different units can encode different correaltions.
 By constraining the size of the tensors, each unit is forced to encode only
 short range correlations.
 
+![figure](./figures/orderings2.png)
+
 
