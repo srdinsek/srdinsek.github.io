@@ -4,6 +4,14 @@ layout: default
 
 # About me
 
+I work on various computational projects in quantum physics and chemistry:
+
+<nav style="line-height: 1.8; margin-bottom: 20px;">
+<!-- Research subpages as links -->
+<a href="./hybrid-quantum-states.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; {% if page.url == './hybrid-quantum-states.html' %}font-weight: bold;{% endif %}">Hybrid Quantum States</a>
+<a href="./quantum-chaos.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; {% if page.url == './quantum-chaos.html' %}font-weight: bold;{% endif %}">Quantum Chaos</a>
+<a href="./entanglement-entropy.html" style="display: block; text-decoration: none; color: inherit; margin-left: 1em; margin-bottom: 0; {% if page.url == './entanglement-entropy.html' %}font-weight: bold;{% endif %}">Entanglement Entropy</a>
+</nav>
 
 ## Education
 - Postdoc at CEA Grenoble with [Xavier Waintal](https://www.pheliqs.fr/en/Pages/Portrait/Xavier-Waintal.aspx)
